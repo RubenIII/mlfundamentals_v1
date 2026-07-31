@@ -1,0 +1,25 @@
+# Datos
+*.csv
+*.parquet
+*.feather
+*.h5
+
+# Modelos
+*.pkl
+*.joblib
+*.pt
+*.pth
+
+# Entornos
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Variables de entorno
+.env
