@@ -1,2 +1,4 @@
 # Conjunto de librerias a usar.
 pandas
+matplotlib
+scikit-learn
